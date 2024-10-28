@@ -2,7 +2,9 @@
 // ---> what is an error
 // ======> disruption in a normal flow of program
 
+
 // Types of error
+
 
 //compile time error ---> when code is in  parsing stage ---- here without running to run code we get that there is an syntax error here
 // syntax error
